@@ -1,0 +1,36 @@
+#EXTM3U
+
+#PLAYLIST:1plus1.video
+
+#EXTINF:0 tvg-country="ua" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/240-1-1-hd.png" ",1+1 HD 
+
+https://hls.sweet.tv/stream/x4mfy6iyznucmrr73i5m6r44fuvd9gwgqd6fp8hpiniyf7792gruarbgghufebkpyrkr8zbhdd4g6kcetw5ebfkfmfj7xf2wbbh9pwmxt5zxf6hq88cqsfxssbaq7j6kjw25gsmzzxcs====.m3u8
+
+#EXTINF:0 tvg-country="ua" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/397-2-2-hd.png" ",2+2 HD 
+
+https://hls.sweet.tv/stream/5min88e5rngz37qgzfabzwbwcxn87p6djnqqvv5z4479fscca5cm43janynhfdqxrpdxvw52whgnkpx5kdxza8uesiqdsxp7yqd3szgprq68c2j38thwt63tpgvis4bkqgeujfctqmca====.m3u8
+
+#EXTINF:0 tvg-country="ua" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/484-tet-hd.png" ",ТЕТ HD 
+
+https://hls.sweet.tv/stream/5min88e5rngz37qgzfabzwbwcxn87p6djnqqvv5z4479fscca5cm43janynhfdqxrpdxvw52whgnkpx5kdxza8uesiqdsxp7yqd3szgprq68c2j38thwt63tpgvis4bkqgeujfctqmca====.m3u8
+
+#EXTINF:0 tvg-country="ua" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/512-paramount-comedy.png" ",Paramount Comedy  
+
+https://hls.sweet.tv/stream/a69rw7haburwj4xmt53cswcpvv9rsrs5qinjy5bc5mjwgxysqa8ss6mgmcume54te6ueam3tv5eqfauccrdk3pu2w8jw8tdiz67jv4z6xh9ugytd9nrkra7x3hj3tgm6kgr77h72h94rtqqa.m3u8
+
+#EXTINF:0 tvg-country="ua" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/103-plyusplyus-hd.png" ",ПлюсПлюс HD 
+
+https://hls.sweet.tv/stream/kw7c6q29qirj6viqmv5syb52y5qtdsu3u7snpfwq438fze7ppg2pg8py4qbvpj3jf9ke3r24kgsswmkitgrygcc7kqzgmsaxugkvswcbwsqxxc32qxmjkydva8ik8tpb8u7dc2ff92es8ar6.m3u8
+
+#EXTINF:0 tvg-country="ua" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/456-kvartal-tv.png" ",KVARTAL TV
+
+https://hls.sweet.tv/stream/whqapp5meb6gb4twnw68ncqxu3jr4fbnvayhk2hixjy7562i6fn5irfqdwwe2if654t325s5fjdb6yu34i53q5gdmdfcqwsutj9pqc9z3mmvsdwa6rwzgk49vqr4mvm9y4t9e93r3vqa8npf.m3u8
+
+#EXTINF:0 tvg-country="ua" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/186-bigudi.png" ",Бігуді 
+
+https://hls.sweet.tv/stream/qtdsvhy6jey2gupk8pvfrjqw4qmjy6xuzj8vkgcvbpww6ipym8fw596m7vze26xnzfaf6r9fejscqhry9m8neurcpebyapkq5yfjjckfd7rfar7mdqv7m9vn2s285dp8gv7cphs3buiuqya=.m3u8
+
+#EXTINF:0 tvg-country="ua" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/146-unian-tv-hd.png" ",Уніан ТВ HD
+
+https://hls.sweet.tv/stream/4x7aeyh2sdjyqedw9sibaum4ibxqxbspn2tfvv7wtn9m4jidcvijvzdjb6fnbvx66c2ph35af2vzk3resfjy4b2mb8v65iq6fswmmehamx7uaehefr86xcj8k8ipji99syzwtsm5q4qm27pi.m3u8
+
